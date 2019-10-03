@@ -1,2 +1,2 @@
 # Senior-Capstone-Game
-Senior capston game
+Senior capstone game
